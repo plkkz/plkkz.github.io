@@ -1,6 +1,6 @@
 .head {
  	background-color:#D1BC8A;
-	padding: 25px; 
+	padding: 10% 0; 
 	border: 1px solid black;
 
 
@@ -21,9 +21,6 @@
 .new_list article{
  	padding: 10px;
  	box-sizing: border-box;
-}
-.datatime{
-	color:rgb(110, 110, 110);
 }
 .news-article_image{
 	display: block;
