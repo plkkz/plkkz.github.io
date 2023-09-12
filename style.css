@@ -1,9 +1,6 @@
 .head {
  	background-color:#D1BC8A;
-	padding: 1em; 
-	border: 1px solid black;
-
-
+	text-align: center;
 }
 
 .content{
@@ -19,7 +16,7 @@
 }
 
 .new_list article{
- 	padding: 1em;
+ 	
  	box-sizing: border-box;
 }
 
