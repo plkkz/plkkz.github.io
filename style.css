@@ -1,27 +1,25 @@
-.head {
- 	background-color:#D1BC8A;
+main{
+	overflow: hidden; 
+	width: 1300px;
+}
+.new_list{
+	float: left;
+	width: 1300px;
 	text-align: center;
 }
-
-.content{
- 	overflow: hidden; 
- 	display: flex;
- 	justify-content: space-between;
- }
-	
-.new_list{ 	
-	background-color:#D1A7D4;
- 	text-align: center;
-
-}
-
 .new_list article{
- 	
- 	box-sizing: border-box;
+	float: left;
+	width: 1300px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+time{
+	color:rgb(110, 110, 110);
 }
 
-.new-blockquote{
- 	background-color:#6e6e6e;
- 	text-align: center;
- 	color: #FFADAD;
+blockquote{
+	background-color:#6e6e6e;
+	text-align: center;
+	padding: 20px;
+	color: #fff;
 }
