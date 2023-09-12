@@ -1,6 +1,6 @@
 .head {
  	background-color:#D1BC8A;
-	padding: 10% 0; 
+	padding: 1em; 
 	border: 1px solid black;
 
 
@@ -13,7 +13,7 @@
  }
 	
 .new_list{ 	
-
+	background-color:#D1A7D4;
  	text-align: center;
 
 }
